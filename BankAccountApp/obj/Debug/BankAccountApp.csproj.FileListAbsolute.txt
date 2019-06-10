@@ -1,0 +1,14 @@
+c:\users\шулякд\source\repos\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+c:\users\шулякд\source\repos\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+c:\users\шулякд\source\repos\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+c:\users\шулякд\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojAssemblyReference.cache
+c:\users\шулякд\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.CoreCompileInputs.cache
+c:\users\шулякд\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+c:\users\шулякд\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
+C:\Users\denis\source\repos\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+C:\Users\denis\source\repos\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+C:\Users\denis\source\repos\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+C:\Users\denis\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+C:\Users\denis\source\repos\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb
